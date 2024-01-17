@@ -1,6 +1,5 @@
 ﻿using OpenQA.Selenium;
-using OpenQA.Selenium.Interactions;
-using static System.Net.Mime.MediaTypeNames;
+
 
 
 namespace AutoTask_Yordan_Ilchevski.Helper
