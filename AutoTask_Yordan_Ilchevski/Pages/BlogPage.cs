@@ -1,6 +1,5 @@
 ﻿using AutoTask_Yordan_Ilchevski.Helper;
 using OpenQA.Selenium;
-using OpenQA.Selenium.DevTools.V118.Page;
 
 
 namespace AutoTask_Yordan_Ilchevski.Pages

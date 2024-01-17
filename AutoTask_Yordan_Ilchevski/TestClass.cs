@@ -2,7 +2,6 @@ using AutoTask_Yordan_Ilchevski.Pages;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using AutoTask_Yordan_Ilchevski.Helper;
-using OpenQA.Selenium.Support;
 using NUnit.Framework;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Edge;
